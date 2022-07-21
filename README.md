@@ -6,3 +6,6 @@ To try them on your own checkout the [website](https://editor.p5js.org/RevelcoS/
 
 ## Intersections
 ![Intersections](https://github.com/RevelcoS/p5js/blob/master/gifs/intersections.gif)
+
+## Balls
+![Balls](https://github.com/RevelcoS/p5js/blob/master/gifs/balls.gif)
